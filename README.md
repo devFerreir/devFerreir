@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beatriz Ferreira
 ========================================================================================================================================
 
-Web developer
+Front-End
 --------------
 
 
-estou rotineiramente estudando programação para me tornar uma desenvolvedora web
+estou rotineiramente estudando programação para me tornar uma desenvolvedora Front-End
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [beatrizferreiradsil@gmail.com](mailto:beatrizferreiradsil@gmail.com)
