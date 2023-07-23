@@ -5,7 +5,7 @@ Front-End
 --------------
 
 
-Olá, me chamo Beatriz e sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER. 
+Olá, Sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER e estou estudando rotineiramente para se tornar uma Desenvolvedora Front-end. 
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [beatrizferreiradsil@gmail.com](mailto:beatrizferreiradsil@gmail.com)
