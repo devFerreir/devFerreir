@@ -5,7 +5,7 @@ Front-End
 --------------
 
 
-estou rotineiramente estudando programação para me tornar uma desenvolvedora Front-End
+Olá, me chamo Beatriz e sou estudante de Análise e Desenvolvimento de Sistemas na UNINTER. 
 
 *   🌍  I'm based in Brazil
 *   ✉️  You can contact me at [beatrizferreiradsil@gmail.com](mailto:beatrizferreiradsil@gmail.com)
